@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "bd39a9bf9d46e7bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dfc810c95be6f89",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DSA/03-04.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0f8cc6e4f07337c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0de92e1408d1b5b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb256d4a28778e93",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "36c223bd2294a7dd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9fcb608689374450",
+    "type": "split",
+    "children": [
+      {
+        "id": "19bfad770ad05919",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e1f81e91d8bb7ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DSA/03-04.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5dfc810c95be6f89",
+  "lastOpenFiles": [
+    "DSA/03-04.md",
+    "DSA/02-25.md",
+    "DSA/03-02.md",
+    "Network security/03-04.md",
+    "Network security/02-25.md",
+    "Network security/03-02.md",
+    "IDA/03-04.md",
+    "IDA/03-02.md",
+    "IDA/02-28.md",
+    "IDA/02-25.md"
+  ]
+}
