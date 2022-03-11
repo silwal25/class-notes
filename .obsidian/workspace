@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DSA/03-04.md",
+            "file": "IDA/03-11.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/03-04.md",
+                "file": "IDA/03-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "5dfc810c95be6f89",
   "lastOpenFiles": [
-    "DSA/03-04.md",
-    "DSA/02-25.md",
-    "DSA/03-02.md",
+    "IDA/03-11.md",
+    "IDA/03-09.md",
+    "Network security/03-09.md",
+    "IDA/03-07.md",
+    "dotnet/Untitled.md",
+    "dotnet/Self work.md",
+    "dotnet/28-02.md",
+    "Untitled.md",
     "Network security/03-04.md",
-    "Network security/02-25.md",
-    "Network security/03-02.md",
-    "IDA/03-04.md",
-    "IDA/03-02.md",
-    "IDA/02-28.md",
-    "IDA/02-25.md"
+    "Network security/03-02.md"
   ]
 }
